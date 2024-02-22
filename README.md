@@ -13,6 +13,6 @@ We built and deployed an ML system for churn prediction using a bank customer da
 ## Brief Outline
 In this project we leverage AWS SageMaker to deploy an end-to-end ML system including creating a data lake, feature store, deploy a monitor to SageMaker Endpoint with a monitoring schedule, and implementing a CICD pipeline to train a model and invoke it for a batch-transform job.
 
-Below is the CICD pipeline architecture  
+Below is the implemented CICD pipeline architecture  
 
 <img src="./pictures/pipeline-design.png" />
